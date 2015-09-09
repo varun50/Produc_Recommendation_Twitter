@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Enter Details</h1>
+    <form  action='/search' method='POST'>
+       
+        <p><label>Product name:</label> <input type="text" name="Product_Name"></p>
+        <p><input type="submit"></p>
+        </form>
+{% endblock %}
