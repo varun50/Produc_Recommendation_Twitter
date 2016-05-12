@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Josh Sivulich
+Varun Singh
 """
 
 import twitter, json, os
